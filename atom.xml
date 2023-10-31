@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MAI麦子的鸽子窝</title>
+  
+  <subtitle>MAI麦子的鸽子窝</subtitle>
+  <link href="https://maixxxiam.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://maixxxiam.github.io/"/>
+  <updated>2023-10-31T15:01:31.977Z</updated>
+  <id>https://maixxxiam.github.io/</id>
+  
+  <author>
+    <name>MAI</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MAI麦子的怪田</title>
+    <link href="https://maixxxiam.github.io/2023/10/31/MAI%E9%BA%A6%E5%AD%90%E7%9A%84%E6%80%AA%E7%94%B0/"/>
+    <id>https://maixxxiam.github.io/2023/10/31/MAI%E9%BA%A6%E5%AD%90%E7%9A%84%E6%80%AA%E7%94%B0/</id>
+    <published>2023-10-31T15:01:31.000Z</published>
+    <updated>2023-10-31T15:01:31.977Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
